@@ -1,4 +1,4 @@
-# Hi there , I'm Brita
+# Hi there , I'm Syrix
 
 <h3>Social Media</h3>
 <p align="left">

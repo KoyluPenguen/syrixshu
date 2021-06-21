@@ -10,8 +10,5 @@
 
 Discord Hesabım: `Syrix#1000`
 
-<div align="center">
-        <img src="https://lanyard-profile-readme.vercel.app/api/389084737177780234">
-   </a>
-</div>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234)](https://discord.com/users/389084737177780234)
 

@@ -11,5 +11,3 @@
 Discord Hesabım: `Syrix#1000`
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234)](https://discord.com/users/389084737177780234)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234?theme=light&bg=809ecf&animated=false&hideDiscrim=true)](https://discord.com/users/389084737177780234)

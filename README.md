@@ -14,6 +14,7 @@ I am 17 years old, I have been dealing with software for 2 years.
 </p>
 
 My Discord Account: `Syrix#1000`
+</p>
 Discord Hesabım: `Syrix#1000`
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234)](https://discord.com/users/389084737177780234)

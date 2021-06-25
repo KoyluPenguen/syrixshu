@@ -1,4 +1,4 @@
-# Hi there , I'm Syrix * Merhaba , ben Syrix
+# Hi there , I'm Syrix - Merhaba , ben Syrix
 
 I am 17 years old, I have been dealing with software for 2 years.
 </p>

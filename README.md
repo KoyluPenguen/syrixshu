@@ -13,7 +13,7 @@ I am 17 years old, I have been dealing with software for 2 years.
   <a href="https://syrix.xyz/" target"blank_"><img src="https://img.shields.io/badge/-MY%20SITE-red"></a>
 </p>
 
-My Discord Account: `Syrix#1000`
+My Discord Account: ``Syrix#1000``
 </p>
 Discord Hesabım: `Syrix#1000`
 

@@ -1,8 +1,6 @@
-# Hi there , I'm Syrix - Merhaba , ben Syrix
+# Hi there , I'm Syrix
 
 I am 17 years old, I have been dealing with software for 2 years.
-</p>
-17 yaşındayım, 2 yıldır yazılımla uğraşıyorum.
 
 <h3>Social Media</h3>
 <p align="left">

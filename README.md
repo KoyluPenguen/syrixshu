@@ -1,8 +1,8 @@
 # Hi there , I'm Syrix
 # Merhaba , ben Syrix
-
-I am 17 years old, I have been dealing with software for 2 years.
-17 yaşındayım, 2 yıldır yazılımla uğraşıyorum.
+-
+# I am 17 years old, I have been dealing with software for 2 years.
+# 17 yaşındayım, 2 yıldır yazılımla uğraşıyorum.
 
 <h3>Social Media</h3>
 <p align="left">

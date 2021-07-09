@@ -1,6 +1,6 @@
 # Hi 👋, I'm Syrix!
 
-I am 17 years old, I have been dealing with software for 2 years.
+I am 17 years old, I have been dealing with software for 3 years.
 
 <h3>Social Media</h3>
 <p align="left">

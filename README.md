@@ -1,7 +1,7 @@
 # Hi 👋, I'm Syrix!
-I am 17 years old, I have been dealing with software for 3 years. I have been developing bots for 2 years and here I am sharing my old bots.
-I am open to self-development and learning.
-You can reach me at any time via Discord, I can always help you.
+I am 17 years old, I have been dealing with software for 3 years. I have been developing bots for 2 years and here I am sharing my old bots
+i am open to self-development and learning
+you can reach me at any time via Discord, I can always help you
 
 <h3>Social Media</h3>
    <a href="https://discord.com/users/389084737177780234" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>

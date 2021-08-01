@@ -1,4 +1,4 @@
-# Hi 👋, I'm Syrix!
+# Hi 👋 I'm Syrix!
 I am 17 years old, I have been dealing with software for 3 years i have been developing bots for 2 years and here I am sharing my old bots
 i am open to self-development and learning don't forget to follow. :)
 

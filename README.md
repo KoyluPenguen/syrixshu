@@ -2,13 +2,13 @@
 I am 17 years old, I have been dealing with software for 3 years i have been developing bots for 2 years and here I am sharing my old bots
 i am open to self-development and learning don't forget to follow. :)
 
-<h3>Social Media</h3>
-   <a href="https://open.spotify.com/user/9ucjclu3c0wn6lcgqs0cq0rji" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   
 <img src="https://count.getloli.com/get/@:syrixshu?theme=rule34" alt=":syrixshu" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234)](https://discord.com/users/389084737177780234)
-
+    <div align="center">
+   <a href="https://discord.com/users/389084737177780234" target="_blank">
+      <img src="(https://lanyard-profile-readme.vercel.app/api/389084737177780234">
+   </a>
+</div>
   ## Langauges I Know:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>

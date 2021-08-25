@@ -10,6 +10,7 @@ i am open to self-development and learning don't forget to follow. :)
 <div align="center">
     <img src="https://count.getloli.com/get/@:syrixshu?theme=rule34" alt=":syrixshu" />
 </div>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/389084737177780234)](https://discord.com/users/389084737177780234)
 
   ## Langauges I Know:

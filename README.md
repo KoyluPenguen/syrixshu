@@ -3,9 +3,7 @@ I am 17 years old, I have been dealing with software for 3 years i have been dev
 i am open to self-development and learning don't forget to follow. :)
 
 <h3>Social Media</h3>
-   <a href="https://discord.com/users/389084737177780234" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/9ucjclu3c0wn6lcgqs0cq0rji" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://github.com/syrixshu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    
 <img src="https://count.getloli.com/get/@:syrixshu?theme=rule34" alt=":syrixshu" />
 

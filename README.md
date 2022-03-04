@@ -13,9 +13,6 @@ Hi! I'm Utku[Syrix](https://discord.com/users/389084737177780234) I'm 17 years o
 Discord: [Syrix#0001](https://discord.com/users/389084737177780234) \
 Youtube: [Syrix](https://www.youtube.com/channel/UCtSfaXzhWyNyGwXeLP0HaxA)
 
-@ayyildizgaming (server and bot developer)
-・https://discord.gg/ayyildizgaming
-
 <div>
     <h2 align="center"> My Active Project <img src = "https://cdn.discordapp.com/emojis/743988189814849627.png?v=1" high="20px" width="30px"> </h2>
 </div>

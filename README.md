@@ -10,9 +10,3 @@ Hello! I'm [Utku(Syrix)] 17 years old and interested in software. I've been deve
 
 Discord: [Syrix#0001](https://discord.com/users/389084737177780234) \
 Youtube: [Syrix](https://www.youtube.com/channel/UCtSfaXzhWyNyGwXeLP0HaxA)
-
-<div>
-    <h2 align="center"> My Active Project </h2>
-</div>
-
-@ayyildizgaming (server and bot developer) [Discord](https://discord.gg/ayyildizgaming)

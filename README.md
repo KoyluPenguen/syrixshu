@@ -3,7 +3,6 @@
 </div>
 
 Hello! I'm [Utku(Syrix)] 17 years old and interested in software. I've been developing bots on discord for 2 years and managing many projects.
-s.
 
 <div>
     <h2 align="center"> Contact <img src = "https://cdn.discordapp.com/emojis/898285949094621245.png?v=1" high="20px" width="30px"> </h2>

@@ -1,5 +1,3 @@
-<h1 align="left">Hello I Am Syrix(Utku)</h1>
-
 <div>
     <h2 align="center"> About Me <img src = "https://cdn.discordapp.com/emojis/895594417484873779.png?v=1" high="20px" width="30px"> </h2>
 </div>
